@@ -1,0 +1,80 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+*.pyc
+*.pyd
+*.pyo
+
+# Virtual Environment
+.venv
+venv/
+env/
+
+# Session files
+*.session
+
+# Database files
+*.db
+*.sqlite3
+
+# Environment variables
+.env
+.env.local
+
+# Data files
+data/
+*.csv
+*.json
+*.xlsx
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Images and binaries
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.ico
+*.pdf
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Archives
+*.zip
+*.tar
+*.gz
+*.7z
+
+# Temporary files
+*.tmp
+*.temp
