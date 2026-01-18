@@ -1,0 +1,12 @@
+﻿medical_warehouse:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      host: localhost
+      user: postgres
+      pass: postgres
+      port: 5432
+      dbname: telegram_warehouse
+      schema: public
+      threads: 1
